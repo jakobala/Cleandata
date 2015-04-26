@@ -1,4 +1,3 @@
-#FILE PATH=~/Documents/Coursera-Courses_material/Cleaning\ data/
 #1 Merges the training and the test sets to create one data set.
 tableTrainset<-read.table("UCI HAR Dataset/train/X_train.txt")
 tableTestset<-read.table("UCI HAR Dataset/test/X_test.txt")
